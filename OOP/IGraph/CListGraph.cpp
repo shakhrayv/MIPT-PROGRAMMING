@@ -43,7 +43,7 @@ void CListGraph::AddEdge(int from, int to) {
 
 vector<int> CListGraph::GetNextVertexes(int vertex) const {
     vector <int> answer;
-    for (list<int>::const_iterator it = _adjacency[vertex].begin(), end = _adjacency[vertex].end(); it != end; ++it) {
+    for (auto it = _adjacency[vertex].begin(), end = _adjacency[vertex].end(); it != end; ++it) {
         answer.push_back(*it);
     }
     return answer;
@@ -52,7 +52,7 @@ vector<int> CListGraph::GetNextVertexes(int vertex) const {
 vector<int> CListGraph::GetPrevVertexes(int vertex) const {
     vector <int> answer;
     for (int i = 0; i < _adjacency.size(); ++i) {
-        for (list<int>::const_iterator it = _adjacency[i].begin(), end = _adjacency[i].end(); it != end; ++it) {
+        for (auto it = _adjacency[i].begin(), end = _adjacency[i].end(); it != end; ++it) {
             if (*it == vertex) {
                 answer.push_back(i);
                 continue;
