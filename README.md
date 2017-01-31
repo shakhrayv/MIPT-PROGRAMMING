@@ -2,19 +2,31 @@
 #### Здесь я выкладываю задачи по программированию и околопрогерским предметам ФИВТ МФТИ. В основном это 2 семестр.
 #### Не буду отрицать, что некоторые задачи написаны не мной.
 
+#### II  семестр
 
-* [ACOS](https://github.com/ArtemKupriyanov/MIPT-PROGRAMMING/tree/master/ACOS) - Задания с курса "Архитектуры компьтеров и операционных систем" 2 семестр
+* [Объектно-ориентированное программирование (Программирование. Продвинутый поток)](https://github.com/ArtemKupriyanov/MIPT-PROGRAMMING/tree/master/OOP-2sem)
 
-* [Algorithms_and_DS-3sem](https://github.com/ArtemKupriyanov/MIPT-PROGRAMMING/tree/master/Algorithms_and_DS-3sem) - задания с курса "Алгоритмы и структуры данных (продвинутый поток)" 3 семестр
+* [Архитектуры компьтеров и операционных систем](https://github.com/ArtemKupriyanov/MIPT-PROGRAMMING/tree/master/ACOS)
 
-* [DataBases](https://github.com/ArtemKupriyanov/MIPT-PROGRAMMING/tree/master/DataBases) - Задания с курса "Базы данных" 2 семестр
+* [Базы данных](https://github.com/ArtemKupriyanov/MIPT-PROGRAMMING/tree/master/DataBases)
 
-* [Formal_languages](https://github.com/ArtemKupriyanov/MIPT-PROGRAMMING/tree/master/Formal_languages) - Задания с курса "Формальные языки и трансляции" 3 семестр
+#### III семестр
 
-* [Java](https://github.com/ArtemKupriyanov/MIPT-PROGRAMMING/tree/master/Java) -  Задания с курса "Программирование на Java" 3 семестр
+* [Алгоритмы и структуры данных (Программирование. Продвинутый поток)](https://github.com/ArtemKupriyanov/MIPT-PROGRAMMING/tree/master/Algorithms_and_DS-3sem)
 
-* [OOP-2sem](https://github.com/ArtemKupriyanov/MIPT-PROGRAMMING/tree/master/OOP-2sem) - Задания с курса "Объектно-ориентированное программирование" 2 семестр
+* [Программирование на Java](https://github.com/ArtemKupriyanov/MIPT-PROGRAMMING/tree/master/Java)
 
+* [Формальные языки и трансляции](https://github.com/ArtemKupriyanov/MIPT-PROGRAMMING/tree/master/Formal_languages)
+
+#### IV семестр
+
+* [Параллельные алгоритмы (Программирование. Продвинутый поток)]()
+
+* [Функциональное программирование](https://github.com/ArtemKupriyanov/MIPT-PROGRAMMING/tree/master/Java)
+
+* [Математическая статистика]()
+
+* [Физика. Лабы (идиот что ли)]()
 
 
  ### **Куприянов Артем. 599 группа.**
