@@ -2,32 +2,32 @@
 #### Здесь я выкладываю задачи по программированию и околопрогерским предметам ФИВТ МФТИ. В основном это 2 семестр.
 #### Не буду отрицать, что некоторые задачи написаны не мной.
 
-#### II  семестр
+### II  семестр
 
-* [Объектно-ориентированное программирование (Программирование. Продвинутый поток)](https://github.com/ArtemKupriyanov/MIPT-PROGRAMMING/tree/master/OOP-2sem)
+* [Объектно-ориентированное программирование (Программирование. Продвинутый поток)](https://github.com/ArtemKupriyanov/MIPT-PROGRAMMING/tree/master/OOP)
 
 * [Архитектуры компьтеров и операционных систем](https://github.com/ArtemKupriyanov/MIPT-PROGRAMMING/tree/master/ACOS)
 
 * [Базы данных](https://github.com/ArtemKupriyanov/MIPT-PROGRAMMING/tree/master/DataBases)
 
-#### III семестр
+### III семестр
 
-* [Алгоритмы и структуры данных (Программирование. Продвинутый поток)](https://github.com/ArtemKupriyanov/MIPT-PROGRAMMING/tree/master/Algorithms_and_DS-3sem)
+* [Алгоритмы и структуры данных (Программирование. Продвинутый поток)](https://github.com/ArtemKupriyanov/MIPT-PROGRAMMING/tree/master/Algo-and-DS)
 
 * [Программирование на Java](https://github.com/ArtemKupriyanov/MIPT-PROGRAMMING/tree/master/Java)
 
-* [Формальные языки и трансляции](https://github.com/ArtemKupriyanov/MIPT-PROGRAMMING/tree/master/Formal_languages)
+* [Формальные языки и трансляции](https://github.com/ArtemKupriyanov/MIPT-PROGRAMMING/tree/master/Formal-Lang)
 
-#### IV семестр
+### IV семестр
 
-* [Параллельные алгоритмы (Программирование. Продвинутый поток)]()
+* [Параллельные алгоритмы (Программирование. Продвинутый поток)](https://github.com/ArtemKupriyanov/MIPT-PROGRAMMING/tree/master/Parallel-Algo)
 
-* [Функциональное программирование](https://github.com/ArtemKupriyanov/MIPT-PROGRAMMING/tree/master/Java)
+* [Функциональное программирование](https://github.com/ArtemKupriyanov/MIPT-PROGRAMMING/tree/master/Func-Prog)
 
-* [Математическая статистика]()
+* [Математическая статистика](https://github.com/ArtemKupriyanov/MIPT-PROGRAMMING/tree/master/Math-Stat)
 
-* [Физика. Лабы (идиот штоли?)))000) ) ]()
+* [Физика. Лабы (идиот штоли?)))000) ) ](https://github.com/ArtemKupriyanov/MIPT-PROGRAMMING/tree/master/Physics-Labs)
 
 
- ### **Куприянов Артем. 599 группа.**
+ ### **Куприянов Артем. 599 группа**
  ### *kupriyanovartem@yandex.ru*
