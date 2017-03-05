@@ -22,7 +22,7 @@
 
 * [Параллельные алгоритмы (Программирование. Продвинутый поток)](https://github.com/ArtemKupriyanov/MIPT-PROGRAMMING/tree/master/Parallel-Algo)
 
-* [Дискретная оптимизация](https://github.com/ArtemKupriyanov/MIPT-PROGRAMMING/tree/master/Func-Prog)
+* [Дискретная оптимизация](https://github.com/ArtemKupriyanov/MIPT-PROGRAMMING/tree/master/Discrete-Opt)
 
 * [Математическая статистика](https://github.com/ArtemKupriyanov/MIPT-PROGRAMMING/tree/master/Math-Stat)
 
